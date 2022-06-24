@@ -70,4 +70,4 @@ int main(){
   saya.input(nama, nim, skor);
   saya.proses(nama, nim, skor);
   saya.output(nama, nim, skor);
-}
+} 
